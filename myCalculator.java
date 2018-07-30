@@ -7,7 +7,7 @@ package calculator;
 
 /**
  *
- * @author hacker
+ * @author Md Shahnawaz Alam
  */
 public class myCalculator extends javax.swing.JPanel {
 
